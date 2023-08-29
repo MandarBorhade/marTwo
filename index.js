@@ -1,6 +1,6 @@
 var readLineSync = require('readline-sync')
 
-// Geometry quiz
+// Naruto quiz
 var score = 0
 var userName = readLineSync.question('Enter your name: ')
 
